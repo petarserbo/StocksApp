@@ -99,7 +99,7 @@
 		BFDC798725C5707C00656D25 = {
 			isa = PBXGroup;
 			children = (
-				BFDC799225C5707C00656D25 /* Perich_PZ_tinkoff_laba */,
+				BFDC799225C5707C00656D25 /* Stocks_App */,
 				BFDC799125C5707C00656D25 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -112,7 +112,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BFDC799225C5707C00656D25 /* Perich_PZ_tinkoff_laba */ = {
+		BFDC799225C5707C00656D25 /* Stocks_App */ = {
 			isa = PBXGroup;
 			children = (
 				BF9C530425C71661003768C6 /* service */,
@@ -124,7 +124,7 @@
 				BFDC799C25C5708200656D25 /* Assets.xcassets */,
 				BFDC79A125C5708200656D25 /* Info.plist */,
 			);
-			path = Perich_PZ_tinkoff_laba;
+			path = Stocks_App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
